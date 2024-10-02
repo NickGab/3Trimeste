@@ -1,0 +1,43 @@
+body{background-color: black;}
+
+.p1 {text-align: center;}
+.p1 {color: aliceblue;}  
+.p1 {border-style: solid;
+    border-color: blue;
+    border-width: 5px;}
+
+    .a2 {text-align: center;}
+    .a2 {color: rgb(130, 228, 19);}
+    
+        
+.t3 {text-align: center;}
+    .t3 {color: rgb(40, 253, 253);}
+    .t3 {border-style: double;
+        border-color: rgb(236, 13, 43);
+        border-width: 5px;}    
+        
+        .y4 {text-align: center;}
+        .y4 {color: rgb(140, 248, 16);}
+        
+            
+            
+        .m5 {text-align: center;}
+        .m5 {color: rgb(40, 253, 253);}
+        .m5 {border-style: double;
+            border-color: rgb(236, 13, 43);
+            border-width: 5px;}     
+
+    
+
+
+   
+
+
+
+    #ima1 {width: 27%;}
+    #ima1 {margin-left: 36%;}
+    #ima2 {width: 27%;}
+    #ima2 {margin-left: 36%;}
+    #ima3 {width: 37%;}
+    #ima3 {margin-left: 31%;}
+
